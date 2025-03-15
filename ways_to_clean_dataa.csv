@@ -1,0 +1,7 @@
+,,,,,,,Short Report
+Row Labels,Count of ID,Sum of Price Per Unit,Sum of Quantity,,"1. firstly I highlight the Date colum of the data and arranged it to correct date format  and then highlight  rows with ""inf""  and removed it ",,
+East,5,103.89,190,,2. secondly I highlight all the data table and remove duplicates which result reduction in numbers of data  and then sort the ID column in increasing order.,,
+North,3,67.33,105,,3. I removed  incomplete darta ie. Data with incomplete imformation about location and wrong region name,,
+South,6,160.32,295,,4. then I highlight the data tables and create a pivot tables with summary of all data with highlight of total quantity and total price per unit,,
+West,5,267.06,190,,,,
+Grand Total,19,598.6,780,,,,
